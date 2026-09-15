@@ -1,0 +1,2 @@
+-Una Aplicación en la que se pueda Implementar 
+- Seria en el traductor de google para interpretar el lenguaje de señas de las personas sordo mudas o quiza que interpreten audio y lo interprete en un video o fotos de cada simbología 

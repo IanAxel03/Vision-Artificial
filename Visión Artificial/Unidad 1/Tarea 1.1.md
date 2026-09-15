@@ -1,0 +1,4 @@
+que espero aprender de la materia con base en la rubrica 
+-PDF y en moodle
+
+Espero poder entender las  funciones mas usadas en la industria y desde que software asi como su programación o mínimo el como funciona, desde sus limitantes hasta su máximo potencial, en la mayoría de las industrias tengo entendido que se usan como control de calidad pero que pasa si las usamos para detectar yacimientos de agua o futuros desbordamientos de rios, o detección de males en el cuerpo quizá futuras grietas o fisuras en estructuras o construcciones son solo algunas de las ideas que se me ocurren para este tipo de tecnologias
